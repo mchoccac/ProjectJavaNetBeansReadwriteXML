@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+	<usuario>
+		<id>1</id>
+		<nombre>Juanxxxx</nombre>
+		<apellido>Perez</apellido>
+		<login>juan</login>
+		<password>p1234</password>
+		<sessionid>HT3435DGVFG</sessionid>
+	</usuario>
+	<usuario>
+		<id>2</id>
+		<nombre>Ernestossss</nombre>
+		<apellido>Lopez</apellido>
+		<login>lopez</login>
+		<password>edfvd</password>
+		<sessionid>ML3895DGVTY</sessionid>
+	</usuario>
+	<usuario>
+		<id>3</id>
+		<nombre>Juliowwwww</nombre>
+		<apellido>Sorto</apellido>
+		<login>Sorto</login>
+		<password>edfvd</password>
+		<sessionid>ML5825DGPQY</sessionid>
+	</usuario>
+</usuarios>
+
